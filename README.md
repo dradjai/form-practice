@@ -5,7 +5,7 @@ Building a React app with onChange functionality for an HTML form in class pract
 ![Screenshot](./public/images/readme.png)
 
 ## Demo Link
-[link to demo](https://form-practice-dr.web.app)
+[See link to demo](https://form-practice-dr.web.app)
 
 ## Covered In Class
 * onChange
