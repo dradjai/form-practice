@@ -2,7 +2,7 @@
 
 Building a React app with onChange functionality for an HTML form in class practice.
 
-![Screenshot](./public/images/readme.png)
+[![Screenshot](./public/images/readme.png)](https://form-practice-dr.web.app)
 
 ## Demo Link
 [See link to demo](https://form-practice-dr.web.app)
